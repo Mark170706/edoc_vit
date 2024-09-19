@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "04.05.2005"; // Дата рождения
+var birthdate = "04.05.2004"; // Дата рождения
 var fullname = "Науменко Олексій Олегович" // ФИО
 var name = "Максим" // Имя
 
